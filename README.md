@@ -50,8 +50,6 @@
 
 ### ✨ Algunos Proyectos Destacados:
 
-*(Aquí puedes usar una tabla o una lista más visual. Asegúrate de que los repos estén fijados en tu perfil)*
-
 | Proyecto                                             | Descripción Breve                                                                 | Stack Principal                                   | Repo / Demo                                                                                                                               |
 | :--------------------------------------------------- | :-------------------------------------------------------------------------------- | :------------------------------------------------ | :---------------------------------------------------------------------------------------------------------------------------------------- |
 | 🍜 **FoodyMarket** | Marketplace Full-Stack complejo con gestión multi-rol (Clientes/Restaurantes).   | Java, Spring Boot, React, TS, PostgreSQL          | [Código](https://github.com/Juan-Fuente-T/foodymarket) / [Demo](https://foodymarket.vercel.app/)                                        |
@@ -76,7 +74,7 @@
 
 ### 🌱 Aprendiendo y Explorando:
 
-Actualmente estoy consolidando mi portfolio con proyectos Java/Spring y explorando Hyperledger. ¡Siempre con ganas de aprender y afrontar nuevos retos!
+Actualmente estoy consolidando mi portfolio con proyectos Java/Spring y React/Typescript. ¡Siempre con ganas de aprender y afrontar nuevos retos!
 
 ---
 
