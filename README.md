@@ -32,6 +32,7 @@
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular">
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white" alt="Node.js">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
   <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" alt="Solidity">
@@ -43,7 +44,7 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman">
   <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira">
-   <img src="https://img.shields.io/badge/Scrum-Metodología-yellow?style=for-the-badge" alt="Scrum">
+  <img src="https://img.shields.io/badge/Metodología-Scrum-yellow?style=for-the-badge" alt="Scrum">
   </p>
 
 ---
@@ -52,12 +53,14 @@
 
 | Proyecto                                             | Descripción Breve                                                                 | Stack Principal                                   | Repo / Demo                                                                                                                               |
 | :--------------------------------------------------- | :-------------------------------------------------------------------------------- | :------------------------------------------------ | :---------------------------------------------------------------------------------------------------------------------------------------- |
-| 🍜 **FoodyMarket** | Marketplace Full-Stack complejo con gestión multi-rol (Clientes/Restaurantes).   | Java, Spring Boot, React, TS, PostgreSQL          | [Código](https://github.com/Juan-Fuente-T/foodymarket) / [Demo](https://foodymarket.vercel.app/)                                        |
-| 🌳 **Garden Tech NFT Marketplace** | Marketplace NFT con minting, IPFS, proxy UUPS y >90% tests.                      | Solidity, Foundry, React, IPFS, UUPS              | [Código](https://github.com/Juan-Fuente-T/Garden_Tech_Markeplace) / [Info](https://juanfuente.ovh/gardentech_marketplace/)            |
-| 🏦 **MoneyBank Escrow** | DApp P2P para intercambio seguro de tokens con escrow y firmas.                  | Solidity, Foundry, React, TS                      | [Código](https://github.com/Juan-Fuente-T/money_bank_escrow) / [Demo](https://juanfuente.ovh/money_bank/)                             |
+| 🍜 **FoodyMarket** | Marketplace Full-Stack complejo con gestión multi-rol (Clientes/Restaurantes).   | Java, Spring, Junit, React, Typescript, Tailwind, PostgreSQL          | [Código](https://github.com/Juan-Fuente-T/foodymarket) / [Demo](https://foodymarket.vercel.app/)                                        |
+| 🗺️ **Situm Indoor Maps Explorer** | Herramienta de visualización en interiores que utiliza Situm SDK y MapLibre GL                | Situm/SDK-JS, React, Vite/Vitest, TypeScript, Tailwind, MapLibre GL,Docker              | [Código](https://github.com/Juan-Fuente-T/situm-indoor-maps-explorer)  / [Demo](https://situm-indoor-maps-explorer.vercel.app) |
+| 📁 **Borme Scraper** | Proyecto para obtención de datos desde empresas desde el BORME.                | Groovy, Spring, Svelte, Typescript, Tailwind, Docker            | [Código](https://github.com/Juan-Fuente-T/borme-scraper-frontend)  / [Demo](https://borme-scraper.netlify.app/) |
 | 🏬 **Amazing Store** | App Full-Stack gestión tienda/almacén evolucionada post-bootcamp.               | Java, Spring Boot, Angular, TS, PostgreSQL, Docker | [Código Back](https://github.com/Juan-Fuente-T/amazing_store_backend_java) / [Demo](https://juanfuente.ovh/amazing_store/) |
-| 🏛️ **SuperPioneros DAO** | DAO básica para propuestas y votación on-chain con token gating.                | Solidity, Next.js, React, Wagmi/Viem              | [Código](https://github.com/Juan-Fuente-T/SuperPioneros_DAO)  / [Demo](https://juanfuente.ovh/superpioneros_dao/) |
-| 🌦️ **WeatherAI App** | App del tiempo con geocodificación y resúmenes generados por IA (OpenAI).        | React, JS, Chakra UI, APIs externas             | [Código](https://github.com/Juan-Fuente-T/WeatherAI_API_Javascript)                                                                       |
+| 🏦 **MoneyBank Escrow** | DApp P2P para intercambio seguro de tokens con escrow y firmas.                  | Solidity, Foundry, Wagmi, React, Typescript, Tailwind                      | [Código](https://github.com/Juan-Fuente-T/money_bank_escrow) / [Demo](https://juanfuente.ovh/money_bank/)                             |
+| 🚀 **Garden Tech NFT Marketplace** | Marketplace NFT con minting, IPFS, proxy UUPS y >90% tests.                      | Solidity, Foundry, React, Javascript, Tailwind, Ethers, IPFS, UUPS              | [Código](https://github.com/Juan-Fuente-T/Garden_Tech_Markeplace) / [Info](https://juanfuente.ovh/gardentech_marketplace/)            |
+| 🏛️ **SuperPioneros DAO** | DAO básica para propuestas y votación on-chain con token gating.                | Solidity, Next.js, React, Javascript, Wagmi/Viem              | [Código](https://github.com/Juan-Fuente-T/SuperPioneros_DAO)  / [Demo](https://juanfuente.ovh/superpioneros_dao/) |
+| 🌦️ **WeatherAI App** | App del tiempo con geocodificación y resúmenes generados por IA (OpenAI).        | React, Javasript, Chakra UI, APIs externas             | [Código](https://github.com/Juan-Fuente-T/WeatherAI_API_Javascript) / [Demo](https://juanfuente.ovh/proyectos/)    
 
 ➡️ **Visita mi [Portfolio Completo](https://juanfuente.ovh) para ver todos los detalles, demos interactivas y más proyectos.**
 
@@ -66,8 +69,10 @@
 ### 📊 Mis Estadísticas en GitHub:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Juan-Fuente-T&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Estadísticas de GitHub de Juan">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juan-Fuente-T&layout=compact&theme=radical&hide_border=true&count_private=true&langs_count=8" alt="Lenguajes más usados por Juan">
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=Juan-Fuente-T&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Estadísticas de GitHub de Juan">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juan-Fuente-T&layout=compact&theme=radical&hide_border=true&count_private=true&langs_count=8" alt="Lenguajes más usados por Juan"> -->
+  <img src="https://github-readme-stats-bice-tau.vercel.app/api?username=Juan-Fuente-T&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Estadísticas de GitHub de Juan">
+  <img src="https://github-readme-stats-bice-tau.vercel.app/api/top-langs/?username=Juan-Fuente-T&layout=compact&theme=radical&hide_border=true&count_private=true&langs_count=8" alt="Lenguajes más usados por Juan">
 </p>
 
 ---
